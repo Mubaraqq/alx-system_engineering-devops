@@ -11,3 +11,4 @@ cd - changes the working dir to the  previous one||
 ls -ls . .. boot/ list the contents||
 file command display the type of a file||
 ln -s <1> <2> creates a symbolic link, file taking from <1> to <2> destination||
+*.html wilcard that selects any file begining with 1 or more character and ending with .html||
