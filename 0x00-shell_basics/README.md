@@ -9,4 +9,4 @@ rm removes/delete file(s)||
 rmdir removes/deletes a directory||
 cd - changes the working dir to the  previous one||
 ls -ls . .. boot/ list the contents||
-
+file command display the type of a file||
