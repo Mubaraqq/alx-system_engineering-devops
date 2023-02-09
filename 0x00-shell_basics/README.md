@@ -4,3 +4,4 @@ cd command changes the working directory to home||
 ls -l command display the content(S) of a directory in a long formats||
 ls -la list the contents together with the hidden files||
 mkdir command create new directory||
+mv commads move/rename a file||
