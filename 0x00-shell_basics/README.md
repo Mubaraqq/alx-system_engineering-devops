@@ -6,3 +6,5 @@ ls -la list the contents together with the hidden files||
 mkdir command create new directory||
 mv commads move/rename a file||
 rm removes/delete file(s)||
+rmdir removes/deletes a directory||
+
