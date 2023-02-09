@@ -7,4 +7,6 @@ mkdir command create new directory||
 mv commads move/rename a file||
 rm removes/delete file(s)||
 rmdir removes/deletes a directory||
+cd .. changes the working dir to the  previous one||
+ls -ls ./../boot list the contents||
 
