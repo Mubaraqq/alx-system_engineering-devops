@@ -1,1 +1,1 @@
-This is the 0x00 shell basics project
+This repository contains scripts and programs for alx-system_engineering-devops

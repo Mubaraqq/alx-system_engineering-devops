@@ -1,0 +1,9 @@
+
+
+
+
+
+
+65;6800;1c
+#!/bin/bash
+sort | uniq -u
