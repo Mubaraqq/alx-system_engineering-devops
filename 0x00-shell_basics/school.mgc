@@ -3,5 +3,4 @@
 !:mime School
 
 chmod u+x School.mgc
-file --mime-type -m School.mgc
-*
+file --mime-type -m School.mgc*
